@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Amazon</string>
+    <string name="adicionar_ao_carrinho">Adicionar ao carrinho</string>
+    <string name="ver_detalhes">Ver detalhes</string>
+</resources>

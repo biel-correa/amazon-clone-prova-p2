@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amazon_blue">#146EB4</color>
+    <color name="amazon_orange">#FF9900</color>
+    <color name="amazon_light_blue">#232F3E</color>
+    <color name="amazon_dark_blue">#131A22</color>
+    <color name="amazon_gray">#EAEDED</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
